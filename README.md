@@ -7,3 +7,9 @@ If you are learning (or plan to learn) back-end development and didn't hear abou
 ## Installation
 
 Run `pip install -r requirements.txt` to install the dependencies for the project.
+
+You can play the game by running `python3 main.py` in the console.
+
+## Built with
+
+The game was built using Python3, and the instructions provided [here](https://www.boot.dev/courses/build-asteroids-python). The code uses the `pygame` library.
